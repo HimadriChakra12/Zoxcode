@@ -1,0 +1,35 @@
+{
+    "name": "zoxide-like",
+    "displayName": "Zoxide-like",
+    "description": "Zoxide-like directory jumping",
+    "version": "1.0.1",
+    "publisher": "HimadriChakraborty", 
+    "engines": {
+      "vscode": "^1.97.2" 
+    },
+    "activationEvents": [
+      "onCommand:zoxide-like.jump"
+    ],
+    "main": "./out/extension.js", 
+    "contributes": {
+      "commands": [
+        {
+          "command": "zoxide-like.jump",
+          "title": "Zoxide-like: Jump to Directory"
+        }
+      ]
+    },
+    "scripts": {
+      "compile": "tsc -p .",
+      "watch": "tsc -watch -p ."
+    },
+    "devDependencies": {
+      "@types/node": "^16.0.0",
+      "@types/vscode": "^1.70.0",
+      "typescript": "^4.5.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/HimadriChakra12/Zoxcode"
+    }
+  }
