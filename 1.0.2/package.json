@@ -2,19 +2,19 @@
     "name": "Zoxcode",
     "displayName": "Zoxcode",
     "description": "Zoxcode dir autojump",
-    "version": "1.0.3",
+    "version": "1.0.2",
     "publisher": "HimadriChakraborty", 
     "engines": {
       "vscode": "^1.70.2" 
     },
     "activationEvents": [
-      "onCommand:zoxcode.jump"
+      "onCommand:zoxide-like.jump"
     ],
     "main": "./out/extension.js", 
     "contributes": {
       "commands": [
         {
-          "command": "zoxcode.jump",
+          "command": "zoxide-like.jump",
           "title": "Zoxcode: Autojump to Directory"
         }
       ]
