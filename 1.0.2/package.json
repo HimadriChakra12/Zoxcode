@@ -1,11 +1,11 @@
 {
     "name": "Zoxcode",
     "displayName": "Zoxcode",
-    "description": "Zoxcode dir autojump",
+    "description": "Zoxcode - Autojumping is now easy in VScode",
     "version": "1.0.2",
     "publisher": "HimadriChakraborty", 
     "engines": {
-      "vscode": "^1.70.2" 
+      "vscode": "^1.97.2" 
     },
     "activationEvents": [
       "onCommand:zoxide-like.jump"
@@ -15,7 +15,7 @@
       "commands": [
         {
           "command": "zoxide-like.jump",
-          "title": "Zoxcode: Autojump to Directory"
+          "title": "Zoxide-like: Jump to Directory"
         }
       ]
     },
