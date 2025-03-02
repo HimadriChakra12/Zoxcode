@@ -4,7 +4,7 @@ A [Zoxcode](https://marketplace.visualstudio.com/items?itemName=HimadriChakrabor
 
 ## Preview
 
-[![View on vgy.me](https://i.vgy.me/45VHsa.png "View 45VHsa.png on vgy.me")](https://vgy.me/u/45VHsa)
+https://vgy.me/u/45VHsa
 
 ## Storage
 
