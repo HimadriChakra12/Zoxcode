@@ -1,6 +1,6 @@
 # Zoxcode  or Zoxide-like
 
-A [Zoxcode](https://marketplace.visualstudio.com/items?itemName=HimadriChakraborty.zoxide-like)(alike) cd and autojumping for VScode or formally Visual Studio Code. Easy Solution for jumping to different directories.
+[Zoxcode](https://marketplace.visualstudio.com/items?itemName=HimadriChakraborty.zoxide-like) formaly known as zoxide-like is a cd and autojumping(an inspiration from [zoxide](https://github.com/ajeetdsouza/zoxide)) for VScode or formally Visual Studio Code. Easy Solution for jumping to different directories.
 
 ## Preview
 
