@@ -20,8 +20,9 @@ In Windows : C:\Users\Him\AppData\Roaming\Code\User\globalStorage\himadrichakrab
 
 At First, You will get a clean popup having only "Enter path" option.
 
-You can click "Enter path" or use "Escape" key to get into cd mode. Where you can cd into your desired path. In this case,the path will not be included. To include the path in the history.json for autojumping. You have to write it again in the cd mode.
-That helps to justify what you want and what you don't want to include.
+You can click "Enter path" or use "Escape" key to get into cd mode. Where you can cd into your desired path. In this case,the path will not be included. To include the path in the history.json for autojumping, you have to 
+write it again in the cd mode.
+That gives you freedom to justify what you want and what you don't want to include.
 
 I didn't give it any keybindings cause there are to many keybinding that will overlap it. If using vim keybinding you can impliment this in "settings.json" or you can get into keyboard shortcuts to tweak it.
 If you ever need to remove any path from it, you can edit the "history.json" file.
