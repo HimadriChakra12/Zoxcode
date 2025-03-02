@@ -4,7 +4,7 @@ A [Zoxcode](https://marketplace.visualstudio.com/items?itemName=HimadriChakrabor
 
 ## Preview
 
-[img]https://i.vgy.me/45VHsa.png[/img]
+![zoxcode](https://imgur.com/J4A7wIC)
 
 ## Storage
 
